@@ -24,6 +24,6 @@ python python/main.py
 
 ```
 ## 🎥 Demo Video
-Watch the full demo on YouTube: [Hand Gesture Servo Control](https://youtu.be/7b_lwy-I7l8?si=AjmQDnzHRJjHt-UW)
+Watch the full demo on YouTube: [Hand Gesture LEDs and Buzzer](https://youtu.be/7b_lwy-I7l8?si=AjmQDnzHRJjHt-UW)
 
 
